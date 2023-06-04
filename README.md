@@ -15,6 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilper&layout=donut&theme=chartreuse-dark)](https://github.com/GabrielSilper/github-readme-stats)
 
 ##
+### Minha atual stack
 
 <div>
   <img align="center" alt"gabriel-js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
