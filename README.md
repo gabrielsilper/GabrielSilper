@@ -4,7 +4,7 @@
 
 - 👩‍💻 Desenvolvedor Web Full-Stack em busca de oportunidades.
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
-- 💭 Meu plano é me tornar um Desenvolvedor Back-End.
+- 💭 Planejo me especializar em desenvolvimento back-end.
 - 🎒 Estou atualmente estudando na [Trybe](https://betrybe.com/).
 - 🌱 Estou atualmente aprendendo TypeScript.
 - 🔨 Estou atualmente trabalhando num projeto pessoal para [calcular despesas](https://github.com/GabrielSilper/despesas-app-api-ts).
