@@ -2,6 +2,7 @@
 
 ### Bem-vindo ao meu perfil! 👋
 
+- 🌎 Moro em Manaus-AM e tenho 25 anos.
 - 👩‍💻 Desenvolvedor Web Full-Stack em busca de oportunidades.
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
 - 💭 Planejo me especializar em desenvolvimento back-end.
