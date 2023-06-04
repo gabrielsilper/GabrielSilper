@@ -3,8 +3,8 @@
 ### Bem-vindo ao meu perfil! 👋
 
 - 👩‍💻 Desenvolvedor Web Full-Stack em busca de oportunidades.
-- 💭 Quero me tornar um Desenvolvedor Back-End.
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
+- 💭 Meu plano é me tornar um Desenvolvedor Back-End.
 - 🎒 Estou atualmente estudando na [Trybe](https://betrybe.com/).
 - 🌱 Estou atualmente aprendendo TypeScript.
 - 🔨 Estou atualmente trabalhando num projeto pessoal para [calcular despesas](https://github.com/GabrielSilper/despesas-app-api-ts).
@@ -45,5 +45,7 @@
 <a href="https://api.whatsapp.com/send/?phone=5592994123467&text&type=phone_number&app_absent=0">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-  
+
+📧 gabrielsilper.dev@gmail.com</b>
+ 
 </div>
