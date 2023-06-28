@@ -7,7 +7,7 @@
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
 - 💭 Planejo me especializar em desenvolvimento back-end.
 - 🎒 Estou atualmente estudando na [Trybe](https://betrybe.com/).
-- 🌱 Estou atualmente aprendendo TypeScript.
+- 🌱 Estou atualmente aprendendo TypeScript e Python.
 - 🔨 Estou atualmente trabalhando num projeto pessoal para [calcular despesas](https://github.com/GabrielSilper/despesas-app-api-ts).
 
 ##
@@ -21,6 +21,7 @@
 <div>
   <img align="center" alt"gabriel-js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt"gabriel-ts" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt"gabriel-python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt"gabriel-react" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt"gabriel-redux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
   <img align="center" alt"gabriel-nodejs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -30,7 +31,6 @@
   <img align="center" alt"gabriel-dokcer" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt"gabriel-jest" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
   <img align="center" alt"gabriel-mocha" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
-  <img align="center" alt"gabriel-" height="50" />
   <img align="center" alt"gabriel-" height="50" />
 </div>
 
