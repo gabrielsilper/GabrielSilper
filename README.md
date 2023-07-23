@@ -6,8 +6,9 @@
 - 👩‍💻 Desenvolvedor Web Full-Stack em busca de oportunidades.
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
 - 💭 Planejo me especializar em desenvolvimento back-end.
-- 🎒 Estou atualmente estudando na [Trybe](https://betrybe.com/).
-- 🌱 Estou atualmente aprendendo TypeScript e Python.
+- 📚 Cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFAM.
+- 🎒 Estou paralelamente estudando na [Trybe](https://betrybe.com/).
+- 🌱 Estou atualmente estou começando a estudar Java e o framework frontend Angular.
 - 🔨 Estou atualmente trabalhando num projeto pessoal para [calcular despesas](https://github.com/GabrielSilper/despesas-app-api-ts).
 
 ##
@@ -31,7 +32,9 @@
   <img align="center" alt"gabriel-dokcer" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt"gabriel-jest" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
   <img align="center" alt"gabriel-mocha" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
-  <img align="center" alt"gabriel-" height="50" />
+  <a href"#">
+    <img align="center" alt"gabriel-angular"  src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
 </div>
 
 ##
