@@ -8,7 +8,7 @@
 - 💭 Planejo me especializar em desenvolvimento back-end.
 - 📚 Cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFAM.
 - 🎒 Estou paralelamente estudando na [Trybe](https://betrybe.com/).
-- 🌱 Estou atualmente estou começando a estudar Java e o framework frontend Angular.
+- 🌱 Estou atualmente estudando: Java, Angular e NestJs.
 - 🔨 Estou atualmente trabalhando num projeto pessoal para [calcular despesas](https://github.com/GabrielSilper/despesas-app-api-ts).
 
 ##
