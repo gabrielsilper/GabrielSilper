@@ -2,12 +2,12 @@
 
 ### Bem-vindo ao meu perfil! 👋
 
-- 🌎 Moro em Manaus-AM e tenho 25 anos.
+- 🌎 Moro em Manaus-AM e tenho 26 anos.
 - 👩‍💻 Desenvolvedor Web Full-Stack em busca de oportunidades.
 - 🧑‍🎓 Formado e certificado em Desenvolvimento Full Stack pela Trybe.
 - 📈 Me especializando cada dia mais em desenvolvimento back-end
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
-- 📚 Cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFAM.
+- 📚 Cursando o 5º período de Análise e Desenvolvimento de Sistemas no IFAM.
 
 ##
 
@@ -16,6 +16,7 @@
 - JavaScript;
 - TypeScript;
 - Java;
+- Go;
 - Python;
 
 #### Ferramentas:
