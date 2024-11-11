@@ -4,7 +4,7 @@
 
 - 🌎 Moro em Manaus-AM e tenho 26 anos.
 - 👔 Atualmente trabalhando na empresa ClipEscola.
-- 👩‍💻 Desenvolvedor Web Full-Stack em busca de oportunidades.
+- 👩‍💻 Desenvolvedor Web Full-Stack.
 - 🧑‍🎓 Formado e certificado em Desenvolvimento Full Stack pela Trybe.
 - 📈 Me especializando cada dia mais em desenvolvimento back-end.
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
