@@ -2,8 +2,8 @@
 
 ### Bem-vindo ao meu perfil! 👋
 
-- 🌎 Moro em Manaus-AM e tenho 26 anos.
-- 👔 Atualmente trabalhando na empresa ClipEscola.
+- 🌎 Moro em Manaus-AM e tenho 28 anos.
+- 👔 Atualmente trabalhando na empresa ClipEscola desde 03/2024.
 - 👩‍💻 Desenvolvedor Web Full-Stack.
 - 🧑‍🎓 Formado e certificado em Desenvolvimento Full Stack pela Trybe.
 - 📈 Me especializando cada dia mais em desenvolvimento back-end.
