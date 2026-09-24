@@ -3,8 +3,8 @@
 ### Bem-vindo ao meu perfil! 👋
 
 - 🌎 Moro em Manaus-AM e tenho 28 anos.
-- 👔 Atualmente trabalhando na empresa ClipEscola desde 03/2024.
-- 👩‍💻 Desenvolvedor Web Full-Stack.
+- 👔 Atualmente trabalhando na empresa SiDi desde 07/2026.
+- 👩‍💻 Desenvolvedor Web.
 - 🧑‍🎓 Formado e certificado em Desenvolvimento Full Stack pela Trybe.
 - 📈 Me especializando cada dia mais em desenvolvimento back-end.
 - 🚀 Busco aprimorar minhas habilidades, e estou aberto a aprender novas tecnologias e ampliar minha stack de conhecimentos.
@@ -17,6 +17,7 @@
 - JavaScript;
 - TypeScript;
 - Java;
+- Kotlin;
 - Go;
 - Python;
 
